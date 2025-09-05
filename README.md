@@ -63,7 +63,7 @@ The following steps are implemented and documented inside the Jupyter Notebook:
 ```
 ├── GTC_ML_Project_1_Data_Cleaning_&_Preprocessing_Challenge.ipynb   # Main notebook (with all steps above)
 ├── hotel_bookings.csv                                              # Dataset
-├── hotel_bookings_cleaned.csv                                      # Project instructions
+├── hotel_bookings_cleaned.csv                                      # Dataset Cleaned
 ├── README.md                                                       # Project documentation
 ```
 
